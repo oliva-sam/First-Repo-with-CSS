@@ -1,0 +1,33 @@
+body{
+    margin:auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    width: 33.3%;
+    padding: 20px;
+
+}
+
+h1{
+    background-color: black;
+    color: white;
+
+}
+
+p{
+    color: blueviolet;
+                
+}
+
+img{
+    border-style:solid;
+    border-color:red;
+    border-width: 10px;
+    float: left;
+    
+}
+
+.red-titles{
+    color: red;
+
+}
